@@ -10,7 +10,7 @@ def get_requirements(file_path:str) -> List[str]:
     return requirements
 
 setup(
-    name="ml_project",
+    name="student performance Analysis",
     version="0.1",
     author="shruti",
     author_email="shruti_2312res629@iitp.ac.in",
